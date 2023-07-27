@@ -1,0 +1,1 @@
+The result of the concatenation between both files is: Here is the first text. Here is the second text.
